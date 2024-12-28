@@ -1,4 +1,4 @@
-# Flask Blog Application
+# Flask Blog Application 📝
 
 This project is a simple blog application built with Flask. It uses dynamic routing, templating, and an external API to fetch blog posts. The application demonstrates how to use Python classes to organize data and Flask for rendering dynamic HTML templates.
 
