@@ -83,3 +83,7 @@ Modify `static/css/styles.css` to update the application's appearance.
 
 4. **Update Blog Data Source**:
 Replace the `blog_url` variable in `main.py` with a different API endpoint to use another set of blog posts.
+
+## License
+
+This project is licensed under the MIT License. See the `LICENSE` file for details.
